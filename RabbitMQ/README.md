@@ -1,0 +1,1 @@
+> Record RabbitMQ study nodes.
